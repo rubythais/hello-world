@@ -14,19 +14,16 @@ I'm currently studying **Systems Analysis and Development** with a background in
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" />
 </p>
 
+
 Feel free to explore my repositories and projects. I'm always looking for ways to innovate and improve, combining my passion for technology with my desire to make a positive impact on the world. 🌍💡
 
-## Let's Connect! 🤝
 If you share my passion for technology, sustainability, or creative problem-solving, let's connect! I'd love to collaborate and exchange ideas.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="https://github.com/seu-github" target="_blank">
+  <a href="https://github.com/rubythais" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:t.thais@escolar.ifrn.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
