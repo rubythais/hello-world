@@ -14,13 +14,6 @@ I'm currently studying **Systems Analysis and Development** with a background in
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" />
 </p>
 
-## My Projects 🚀
-Here are some of the projects I've been working on:
-
-- **[Photovoltaic System Design & Installation](#)**: A comprehensive project focusing on the design and installation of solar panels for residential and commercial use.
-- **[Smart Home Automation](#)**: Integrating renewable energy solutions with IoT to create sustainable smart homes.
-- **[Portfolio Website](#)**: Built with HTML, CSS, and JavaScript, showcasing my skills and projects.
-
 Feel free to explore my repositories and projects. I'm always looking for ways to innovate and improve, combining my passion for technology with my desire to make a positive impact on the world. 🌍💡
 
 ## Let's Connect! 🤝
